@@ -28,7 +28,7 @@ int main (int argc, char* argv[])
     }  
   }
 
-  std::cout << "const char * hex[] = {" << std::endl;
+  std::cout << "const char hex[] = {" << std::endl;
 
   const int maxElementsInLine = 8;
   int symbolNumber = 0;
